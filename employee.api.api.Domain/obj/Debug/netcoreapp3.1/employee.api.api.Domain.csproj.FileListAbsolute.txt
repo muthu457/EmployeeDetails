@@ -1,0 +1,10 @@
+C:\Users\muthu\source\repos\employee.api.api.Web\employee.api.api.Domain\bin\Debug\netcoreapp3.1\employee.api.api.Domain.deps.json
+C:\Users\muthu\source\repos\employee.api.api.Web\employee.api.api.Domain\bin\Debug\netcoreapp3.1\employee.api.api.Domain.dll
+C:\Users\muthu\source\repos\employee.api.api.Web\employee.api.api.Domain\bin\Debug\netcoreapp3.1\employee.api.api.Domain.pdb
+C:\Users\muthu\source\repos\employee.api.api.Web\employee.api.api.Domain\obj\Debug\netcoreapp3.1\employee.api.api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muthu\source\repos\employee.api.api.Web\employee.api.api.Domain\obj\Debug\netcoreapp3.1\employee.api.api.Domain.AssemblyInfoInputs.cache
+C:\Users\muthu\source\repos\employee.api.api.Web\employee.api.api.Domain\obj\Debug\netcoreapp3.1\employee.api.api.Domain.AssemblyInfo.cs
+C:\Users\muthu\source\repos\employee.api.api.Web\employee.api.api.Domain\obj\Debug\netcoreapp3.1\employee.api.api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\muthu\source\repos\employee.api.api.Web\employee.api.api.Domain\obj\Debug\netcoreapp3.1\employee.api.api.Domain.dll
+C:\Users\muthu\source\repos\employee.api.api.Web\employee.api.api.Domain\obj\Debug\netcoreapp3.1\employee.api.api.Domain.pdb
+C:\Users\muthu\source\repos\employee.api.api.Web\employee.api.api.Domain\obj\Debug\netcoreapp3.1\employee.api.api.Domain.csproj.AssemblyReference.cache
